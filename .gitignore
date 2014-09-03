@@ -4,3 +4,11 @@
 /Amazon.Dao/bin
 /Amazon.Dao.Tests/obj
 /Amazon.Dao.Tests/bin
+/Amazon.Domain/obj
+/Amazon.Domain/bin
+/Amazon.Domain.Tests/obj
+/Amazon.Domain.Tests/bin
+/Amazon.Infrastructure/obj
+/Amazon.Infrastructure/bin
+/Amazon.Model/obj
+/Amazon.Model/bin

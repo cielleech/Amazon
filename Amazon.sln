@@ -1,0 +1,56 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Amazon", "Amazon\Amazon.csproj", "{88BCA612-FF3E-4AB8-B158-1D7C867AB33C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Amazon.Infrastructure", "Amazon.Infrastructure\Amazon.Infrastructure.csproj", "{49B739F2-D074-41A3-9689-2F9455354811}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Amazon.Model", "Amazon.Model\Amazon.Model.csproj", "{B91C00F8-D4E5-4C33-8492-8F3513215F13}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Amazon.Dao", "Amazon.Dao\Amazon.Dao.csproj", "{6CF10A01-44BA-4F79-A407-CB5E566C1EDC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Amazon.Domain", "Amazon.Domain\Amazon.Domain.csproj", "{52EE7C46-C7FA-44D3-A770-8D3F2BBAA153}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Amazon.Dao.Tests", "Amazon.Dao.Tests\Amazon.Dao.Tests.csproj", "{C3DC251A-A05E-434A-9378-F33417A7F1A0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Amazon.Domain.Tests", "Amazon.Domain.Tests\Amazon.Domain.Tests.csproj", "{9EC49F20-8E97-4842-A394-F41F7994A60B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{88BCA612-FF3E-4AB8-B158-1D7C867AB33C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{88BCA612-FF3E-4AB8-B158-1D7C867AB33C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{88BCA612-FF3E-4AB8-B158-1D7C867AB33C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{88BCA612-FF3E-4AB8-B158-1D7C867AB33C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{49B739F2-D074-41A3-9689-2F9455354811}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{49B739F2-D074-41A3-9689-2F9455354811}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{49B739F2-D074-41A3-9689-2F9455354811}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{49B739F2-D074-41A3-9689-2F9455354811}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B91C00F8-D4E5-4C33-8492-8F3513215F13}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B91C00F8-D4E5-4C33-8492-8F3513215F13}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B91C00F8-D4E5-4C33-8492-8F3513215F13}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B91C00F8-D4E5-4C33-8492-8F3513215F13}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6CF10A01-44BA-4F79-A407-CB5E566C1EDC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6CF10A01-44BA-4F79-A407-CB5E566C1EDC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6CF10A01-44BA-4F79-A407-CB5E566C1EDC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6CF10A01-44BA-4F79-A407-CB5E566C1EDC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{52EE7C46-C7FA-44D3-A770-8D3F2BBAA153}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{52EE7C46-C7FA-44D3-A770-8D3F2BBAA153}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{52EE7C46-C7FA-44D3-A770-8D3F2BBAA153}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{52EE7C46-C7FA-44D3-A770-8D3F2BBAA153}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C3DC251A-A05E-434A-9378-F33417A7F1A0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C3DC251A-A05E-434A-9378-F33417A7F1A0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C3DC251A-A05E-434A-9378-F33417A7F1A0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C3DC251A-A05E-434A-9378-F33417A7F1A0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9EC49F20-8E97-4842-A394-F41F7994A60B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9EC49F20-8E97-4842-A394-F41F7994A60B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9EC49F20-8E97-4842-A394-F41F7994A60B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9EC49F20-8E97-4842-A394-F41F7994A60B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
